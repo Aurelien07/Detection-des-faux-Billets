@@ -1,5 +1,5 @@
 # GitHub projet OC
- Projet Data Openclassrooms DA / DS
+ Projet Data Openclassrooms de la formation Data Analyst.
 
 Petit soucis de lecture pour la librairie Plotly avec Github..
 
